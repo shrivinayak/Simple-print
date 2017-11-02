@@ -1,5 +1,7 @@
 # Simple-print
 
-instructions:
+### A simple cache print procedure for Sim-Cache, Simplescalar Cache Simulator for debugging.
 
-just include the file in cache.c and call the function with the required cache pointer
+## Instructions:
+1) Include the file in simeple-cache code.
+2) call the function with appropriate cache pointer. 
