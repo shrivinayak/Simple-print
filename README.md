@@ -4,4 +4,4 @@
 
 ## Instructions:
 1) Include the file in simeple-cache code.
-2) call the function with appropriate cache pointer. 
+2) Call the procedure by passing appropriate cache pointer. 
